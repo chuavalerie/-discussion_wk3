@@ -1,0 +1,31 @@
+/* Style the background - add to body where all the content would be
+Give the site a new background color
+Style the text - sans are preferred over sans serif
+Change the font
+Make your headers bold
+Change the color
+*/ */
+
+body {
+    background-color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1,h2,h3 {
+    font-weight: bold;
+    /* strong is used for html, not css */
+    color: rgb(3, 3, 112)
+}
+
+img {
+    max-width: 200px;
+    /* or max-width: 35%; */
+    margin: auto;
+    border: pink 5px dashed;
+}
+
+Style your images
+Customize the height and width
+Put a border around your images
+If you have time add other styling
+Validate your pages to ensure accessible styling */
